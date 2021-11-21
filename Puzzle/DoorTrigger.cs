@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-public class doorTrigger : PuzzleInteractable
+public class DoorTrigger : PuzzleInteractable
 {
     List<Collider> colliders = new List<Collider>();
 
